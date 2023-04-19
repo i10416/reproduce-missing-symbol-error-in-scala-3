@@ -1,3 +1,5 @@
+https://github.com/lampepfl/dotty/issues/17255
+
 Bar.java
 
 ```java
